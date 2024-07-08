@@ -1,1 +1,8 @@
-{}
+{
+  "name": "PAINS",
+  "ticker": "PAINS",
+  "description": "PAINS Web3 Protection and Insurance Pool",
+  "homepage": "https://slowingpains.com/",
+  "nonce": "1720453527",
+  "extended": "https://fida-services.github.io/pains-pool/extended.json"
+}
